@@ -17,7 +17,7 @@ We're thrilled to announce the launch of an exciting new project and are in the 
 
 ## Submission Process:
 
-Once your code repository is complete, add the repository link as your real name in the **Applications List** section after Sunny and create a Pull Request.
+Once your code repository is complete, add the repository link as your real name in the **Applications List** section after Sunny and create a Pull Request. Last date of the application is **_22 December 2023_**
 
 ## Applicant List
 
