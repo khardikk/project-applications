@@ -1,6 +1,6 @@
 # Project application
 
-We're thrilled to announce the launch of an exciting new project and are in the process of forming a dedicated team. To be considered for participation, you are required to make modifications to the code available at [this GitHub repository](https://github.com/TeamShiksha/the-vinci-code-game-stream). The project was created during a live stream by Sunny in under 2 hours.
+We're thrilled to announce the launch of an exciting new project and are in the process of forming a dedicated team. To be considered for participation, you are required to make modifications to the code available at [this GitHub repository](https://github.com/TeamShiksha/the-vinci-code-game-stream). The project was created during a live stream in under 2 hours.
 
 ## What to do and use:
 
@@ -17,8 +17,8 @@ We're thrilled to announce the launch of an exciting new project and are in the 
 
 ## Submission Process:
 
-Once your code repository is complete, add the repository link as your real name in the **Applications List** section after Sunny and create a Pull Request. Last date of the application is **_22 December 2023_**
+Once your code repository is complete, add the repository link as your real name in the **Applications List** section after TeamShiksha and create a Pull Request. Last date of the application is **_22 December 2023_**
 
 ## Applicant List
 
-[Sunny](https://github.com/TeamShiksha/the-vinci-code-game-stream)
+[TeamShiksha](https://github.com/TeamShiksha/the-vinci-code-game-stream)
