@@ -19,6 +19,6 @@ We're thrilled to announce the launch of an exciting new project and are in the 
 
 Once your code repository is complete, add the repository link as your real name in the **Applications List** section after Sunny and create a Pull Request.
 
-## Applications List
+## Applicant List
 
 [Sunny](https://github.com/TeamShiksha/the-vinci-code-game-stream)
