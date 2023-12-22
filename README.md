@@ -22,3 +22,4 @@ Once your code repository is complete, add the repository link as your real name
 ## Applicant List
 
 [TeamShiksha](https://github.com/TeamShiksha/the-vinci-code-game-stream)
+[Lakshay Manchanda](https://github.com/lakshayman/the-vinci-code-game-stream)
