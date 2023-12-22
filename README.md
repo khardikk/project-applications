@@ -12,7 +12,7 @@ We're thrilled to announce the launch of an exciting new project and are in the 
 ## What we want to see:
 
 - Your creativity in approaching the project.
-- Bring out the best UI designs. 
+- Bring out the best UI designs.
 - Your coding skills demonstrated through the modifications.
 
 ## Submission Process:
@@ -23,3 +23,5 @@ Once your code repository is complete, add the repository link as your real name
 
 [TeamShiksha](https://github.com/TeamShiksha/the-vinci-code-game-stream)
 [Lakshay Manchanda](https://github.com/lakshayman/the-vinci-code-game-stream)
+[Ajoy Kumar Das](https://github.com/ajoykumardas12/the-vinci-code-game)
+[Tejas Shekar](https://github.com/TejasShekar/the-vinci-code-game-stream)
