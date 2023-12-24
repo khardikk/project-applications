@@ -22,8 +22,10 @@ Once your code repository is complete, add the repository link as your real name
 ## Applicant List
 
 - [TeamShiksha](https://github.com/TeamShiksha/the-vinci-code-game-stream)
-- [Lakshay Manchanda](https://github.com/lakshayman/the-vinci-code-game-stream)
-- [Ajoy Kumar Das](https://github.com/ajoykumardas12/the-vinci-code-game)
-- [Tejas Shekar](https://github.com/TejasShekar/the-vinci-code-game-stream)
-- [Shubham Singh](https://github.com/shubhamsigdar1/the-vinci-code-game-stream)
-- [Joy Gupta](https://github.com/ardourApeX/the-vinci-code-game-stream/tree/develop)
+- [Lakshay Manchanda](https://github.com/lakshayman/the-vinci-code-game-stream)[Selected]
+- [Ajoy Kumar Das](https://github.com/ajoykumardas12/the-vinci-code-game)[Try again in next project]
+- [Tejas Shekar](https://github.com/TejasShekar/the-vinci-code-game-stream)[Selected]
+- [Shubham Singh](https://github.com/shubhamsigdar1/the-vinci-code-game-stream)[Selected]
+- [Joy Gupta](https://github.com/ardourApeX/the-vinci-code-game-stream/tree/develop)[Try again in next project]
+
+Reach out to me for joining the project server, and for feedbacks.
