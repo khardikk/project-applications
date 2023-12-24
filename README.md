@@ -27,5 +27,6 @@ Once your code repository is complete, add the repository link as your real name
 - [Tejas Shekar](https://github.com/TejasShekar/the-vinci-code-game-stream)[Selected]
 - [Shubham Singh](https://github.com/shubhamsigdar1/the-vinci-code-game-stream)[Selected]
 - [Joy Gupta](https://github.com/ardourApeX/the-vinci-code-game-stream/tree/develop)[Selected]
+- [Shubham Patel](https://github.com/imshubhampatel/the-vinci-code-game-stream/tree/jr-shubham)
 
 Reach out to me for joining the project server, and for feedbacks.
